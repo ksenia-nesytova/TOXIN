@@ -1,0 +1,26 @@
+.header {
+  height: 70px;
+  background-color: white;
+}
+
+.logo {
+width: 105.69px;
+height: 40px;
+left: 140px;
+top: 155px;
+}
+
+.nav {
+  float: right;
+}
+.nav ul {
+    list-style-type: none;
+  }
+.nav li {
+  float: left;
+}
+.nav li a {
+    color: #1F2041;
+    text-align: center;
+    text-decoration: none;
+  }
