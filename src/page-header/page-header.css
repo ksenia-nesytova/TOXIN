@@ -67,3 +67,22 @@ ul li ul li {
   clear: both;
   width: 100%;
 }
+
+
+/* войти */
+.button {
+  border-radius: 22px;
+  back
+  mix-blend-mode: darken;
+  border: 2px solid
+}
+
+.page-header__sign-in-button {
+border-image-source: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+color: #BC9CFF;
+}
+
+.page-header__register-button {
+background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+color: white;
+}
